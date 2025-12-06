@@ -1,5 +1,5 @@
 # RNG-Currency-Indicator-Disclosed-
-“rng” and “rung” are proprietary identifiers of Cymos’ native currency and may not be used without express written consent from Cymos Planet governance.
+“rng” and “rung” and "ring" are proprietary identifiers of Cymos’ native currency and may not be used without express written consent from Cymos Planet governance.
 # Cymos Native Currency Disclosure and Ticker Protection
 
 **Currency Name:** rng (pronounced “rung”)  
@@ -29,7 +29,7 @@ Cymos asserts and defends exclusive rights to the **RNG** indicator for identify
 - **Attribution line:** “RNG is the native currency of the Cymos ecosystem. © Cymos Planet. Used with permission.”
 - **Revocation:** Cymos may revoke permission for misuse, user confusion, or security risk. Upon notice, promptly update tickers, metadata, and UI labels.
 
-> Contact for listings and permissions: listings@cymos.ring (or submit an issue in this repo).
+> Contact for listings and permissions: cymo1@outlook.com (or submit an issue in this repo).
 
 ---
 
