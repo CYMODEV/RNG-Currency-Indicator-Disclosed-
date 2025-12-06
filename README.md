@@ -82,7 +82,7 @@ This repository section governs use of the RNG indicator and related marks in co
 - **No endorsement implied:** Exchange or wallet display of RNG does not imply Cymos endorsement of third‑party services.
 - **Trademark usage:** “Cymos,” “rng,” “RNG,” and “rung” are proprietary identifiers of Cymos’ native currency. Use is permitted solely to identify Cymos’ asset as described herein and subject to quality control.
 - **License grant:** Non‑exclusive, non‑transferable, revocable license to use “RNG” and provided assets to identify Cymos’ native currency, conditioned on accurate, non‑misleading use and adherence to collision protocol.
-- **Enforcement:** Report misuse or confusing usage to listings@cymos.ring (or via repo issue). Cymos may request corrective action, including ticker changes, disclaimers, or delisting.
+- **Enforcement:** Report misuse or confusing usage to cymo1@outlook.com (or via repo issue). Cymos may request corrective action, including ticker changes, disclaimers, or delisting.
 
 ---
 
@@ -92,5 +92,5 @@ This repository section governs use of the RNG indicator and related marks in co
 - **Decimals:** 18.
 - **Description:** “Native currency for fees, staking, and governance on the Cymos Ring Ledger.”
 - **Attribution:** Include the attribution line in asset detail pages.
-- **Contact logged:** listings@cymos.ring or repo issue created.
+- **Contact logged:** cymo1@outlook.com or repo issue created.
 
